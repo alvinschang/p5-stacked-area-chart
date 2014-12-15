@@ -7,6 +7,7 @@ Using the P5.js library for the Processing language, this lets you simply alter 
 
 Simply alter the data.js file. There is an object variable in there, which is structured thusly:
 
+```
 var data = {
   "Name of first chart to display": {
     "Name of first category": {
@@ -30,3 +31,4 @@ var data = {
     },
   }
 }
+```
